@@ -1,0 +1,4 @@
+config.txt
+data/
+*.exe 
+# *.exe artinya semua file yg berekstensi exe tdk diikutkan
